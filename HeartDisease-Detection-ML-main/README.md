@@ -100,7 +100,7 @@ Flask Documentation: Flask
 
 Scikit-learn Documentation: Scikit-learn
 
-Made with ❤️ by Abhinav Kumar Tiwari
+Made by Manikanta Neeluri
 
 ### Key Features of the README:
 1. **Badges**: Add badges for live demo, license, and other relevant information.
